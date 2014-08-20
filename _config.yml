@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://github.com/qiuqingyuan.github.io
+author: qiuqingyuan
+pygments: true
+paginate: 18
